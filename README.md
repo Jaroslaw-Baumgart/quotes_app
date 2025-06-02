@@ -46,7 +46,7 @@ quotes_app/
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Jaroslaw-Baumgart/quotes_app
 cd quotes_app
 ```
 
